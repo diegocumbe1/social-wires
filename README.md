@@ -74,4 +74,4 @@ Nest is [MIT licensed](LICENSE).
 
 
 ##NOTA
-NOTA: Presené un inconvneiente con la implementacion del login al parecer por configuraciones entre el common y express, mil disculpas
+Presenté un inconvneiente con la implementacion del login al parecer por configuraciones entre el common y express, mil disculpas
